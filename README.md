@@ -3,10 +3,18 @@
 This application sends the F24 keystroke every 40 seconds. 
 This way, windows should not activate the screensaver.
 
+[More information found here](https://raymii.org/s/software/ScreenSaverStopper.html)
+
 Useful if you do not have rights to disable the screensaver, but can run executables.
 
 There is no window, no output, no settings, just a keystroke every 40 seconds. 
 If you need to stop the application, use the task manager.
+
+Verify input:
+
+![screenshot 2](https://raymii.org/s/inc/img/screensaverstopper-2.png)
+
+Resource usage:
 
 ![screenshot](screenshot.png)
 
